@@ -4,5 +4,6 @@ public class MyFirstProgram {
         String a="Hello world";
         System.out.println(a);
         System.out.println("java");
+        System.out.println("hello")
     }
 }
